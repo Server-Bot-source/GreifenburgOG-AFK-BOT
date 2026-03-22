@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "GreifenburgOG.aternos.me:57205",
+    "port": 57205,
     "version": "1.21.1"
   },
   "position": {
@@ -69,8 +69,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": true,
